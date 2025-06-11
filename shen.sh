@@ -7,13 +7,14 @@ PUR='\033[1;35m'
 CYAN='\033[1;36m'
 NC='\033[0m'
 
-echo -e "${CYAN}*----------------------------------------------*${NC}"
-echo -e "${YEL}*          Welcome to ShengeKeJi Script          *${NC}"
-echo -e "${YEL}*      MDM Check & AutoBypass for macOS          *${NC}"
-echo -e "${PUR}*           Powered by 申哥技术支持                *${NC}"
-echo -e "${PUR}*                Website: shengekeji.cn           *${NC}"
-echo -e "${CYAN}*----------------------------------------------*${NC}"
+echo -e "${CYAN}╔══════════════════════════════════════════════╗${NC}"
+echo -e "${YEL}║${NC}          ${WHT}Welcome to ShengeKeJi Script${YEL}          ║${NC}"
+echo -e "${YEL}║${NC}        ${WHT}MDM Check & AutoBypass for macOS${YEL}        ║${NC}"
+echo -e "${PUR}║${NC}           ${WHT}Powered by 申哥技术支持${PUR}            ║${NC}"
+echo -e "${PUR}║${NC}             ${WHT}Website: shengekeji.cn${PUR}             ║${NC}"
+echo -e "${CYAN}╚══════════════════════════════════════════════╝${NC}"
 echo ""
+
 
 PS3='请选择一个操作（输入对应数字）: '
 options=(
