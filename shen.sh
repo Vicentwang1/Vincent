@@ -8,10 +8,10 @@ CYAN='\033[1;36m'
 NC='\033[0m'
 
 echo -e "${CYAN}╔══════════════════════════════════════════════╗${NC}"
-echo -e "${YEL}║${NC}          ${WHT}Welcome to ShengeKeJi Script${YEL}      ║${NC}"
-echo -e "${YEL}║${NC}        ${WHT}MDM Check & AutoBypass for macOS${YEL}    ║${NC}"
+echo -e "${YEL}║${NC}          ${WHT}Welcome to ShengeKeJi Script${YEL}     ║${NC}"
+echo -e "${YEL}║${NC}        ${WHT}MDM Check & AutoBypass for macOS${YEL}   ║${NC}"
 echo -e "${PUR}║${NC}           ${WHT}Powered by 申哥技术支持${PUR}            ║${NC}"
-echo -e "${PUR}║${NC}             ${WHT}Website: shengekeji.cn${PUR}         ║${NC}"
+echo -e "${PUR}║${NC}             ${WHT}Website: shengekeji.cn${PUR}        ║${NC}"
 echo -e "${CYAN}╚══════════════════════════════════════════════╝${NC}"
 echo ""
 
