@@ -10,7 +10,7 @@ NC='\033[0m'
   echo -e "${CYAN}╔══════════════════════════════════════════════════╗${NC}"
   echo -e "${YEL}║${NC}          ${BOLD}${WHT}Welcome to ShengeKeJi Script${NC}${YEL}            ║${NC}"
   echo -e "${YEL}║${NC}        ${BOLD}${WHT}MDM Check & AutoBypass for macOS${NC}${YEL}          ║${NC}"
-  echo -e "${PUR}║${NC}           ${BOLD}${WHT}Powered by 申哥技术支持${NC}${PUR}                 ║${NC}"
+  echo -e "${PUR}║${NC}           ${BOLD}${WHT}Powered by 申哥技术支持${NC}${PUR}                ║${NC}"
   echo -e "${PUR}║${NC}             ${BOLD}${WHT}Website: shengekeji.cn${NC}${PUR}               ║${NC}"
   echo -e "${CYAN}╚══════════════════════════════════════════════════╝${NC}"
 echo ""
